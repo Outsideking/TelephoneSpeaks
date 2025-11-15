@@ -2,9 +2,6 @@
 TGN/TPS Global 
 Project overview & setup instructions
 
-```python
-from PIL import Image, ImageDraw, ImageFont
-
 *"Devices can be anywhere, but communication is limited—when technology reaches people's hearts around the world at their fingertips."*
 
 สร้างภาพเปล่าขนาด 512x512 พื้นหลังดำ
